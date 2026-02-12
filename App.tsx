@@ -1,4 +1,4 @@
-import { Navbar } from "./components/Navbar";
+import { Navbar } from "./components/Navbar"; // 'i' ko small kiya
 import { HeroSection } from "./components/HeroSection";
 import { LiveTournaments } from "./components/LiveTournaments";
 import { GamesSection } from "./components/GamesSection";
