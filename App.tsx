@@ -9,7 +9,7 @@ import { Footer } from "./Footer";
 
 export function App() {
   return (
-    <div className="min-h-screen bg-dark-bg text-white antialiased">
+    <div className="min-h-screen bg-[#0a0a0a] text-white antialiased">
       <Navbar />
       <HeroSection />
       <LiveTournaments />
