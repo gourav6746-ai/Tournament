@@ -1,11 +1,11 @@
-import { Navbar } from "./components/Navbar"; // 'i' ko small kiya
-import { HeroSection } from "./components/HeroSection";
-import { LiveTournaments } from "./components/LiveTournaments";
-import { GamesSection } from "./components/GamesSection";
-import { Leaderboard } from "./components/Leaderboard";
-import { HowItWorks } from "./components/HowItWorks";
-import { CTASection } from "./components/CTASection";
-import { Footer } from "./components/Footer";
+import { Navbar } from "./Navbar";
+import { HeroSection } from "./HeroSection";
+import { LiveTournaments } from "./LiveTournaments";
+import { GamesSection } from "./GamesSection";
+import { Leaderboard } from "./Leaderboard";
+import { HowItWorks } from "./HowItWorks";
+import { CTASection } from "./CTASection";
+import { Footer } from "./Footer";
 
 export function App() {
   return (
